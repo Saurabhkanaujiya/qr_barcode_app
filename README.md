@@ -24,7 +24,18 @@ pip install -r requirements.txt
 python main.py
 
 ## Screenshots
-(Add screenshots here)
+
+### Main Window
+![Main Window](main.png)
+
+### QR Generator
+![QR Generator](qr.png)
+
+### Barcode Generator
+![Barcode Generator](barcode.png)
+
+### Generated Output
+![Output](output.png))
 
 ## Author
 Saurabh Kanaujiya
