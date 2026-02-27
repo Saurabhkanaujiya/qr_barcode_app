@@ -39,3 +39,5 @@ python main.py
 
 ## Author
 Saurabh Kanaujiya
+Connect with me on LinkedIn: 
+https://www.linkedin.com/in/saurabh-kanaujiya-python/
